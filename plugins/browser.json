@@ -1,0 +1,15 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "nirwan.cordova.plugin.printer": {
+            "PACKAGE_NAME": "com.practisis.testing1"
+        }
+    },
+    "dependent_plugins": {}
+}

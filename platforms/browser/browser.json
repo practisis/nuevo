@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "nirwan.cordova.plugin.printer": {
+            "PACKAGE_NAME": "com.practisis.testing1"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/nirwan.cordova.plugin.printer/www/printer.js",
+            "id": "nirwan.cordova.plugin.printer.Printer",
+            "pluginId": "nirwan.cordova.plugin.printer",
+            "clobbers": [
+                "plugin.printer"
+            ]
+        }
+    ],
+    "plugin_metadata": {
+        "nirwan.cordova.plugin.printer": "0.6.0dev"
+    }
+}
